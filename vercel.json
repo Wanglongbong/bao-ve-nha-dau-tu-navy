@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/doi-ngu", "destination": "/index.html" },
+    { "source": "/dien-dan", "destination": "/index.html" },
+    { "source": "/nen-tang-ai", "destination": "/index.html" },
+    { "source": "/tin-tuc", "destination": "/index.html" },
+    { "source": "/ban-word", "destination": "/index.html" },
+    { "source": "/toan-van", "destination": "/index.html" }
+  ]
+}
